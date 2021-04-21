@@ -1,8 +1,15 @@
-### Hi there 👋
+### Kevin Russell DMIT/Student
 
-<!--
-**krussell23/krussell23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a student in the Dmit program
 
+
+### Github Stats
+<a href="https://github.com/krussell23/krussell23">
+  <img align="center" src="https://github-stats.vercel.app/api/top-langs/?username=krussell23&hide=html&title_
+                           color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/> </a>
+
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
