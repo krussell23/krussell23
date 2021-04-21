@@ -5,7 +5,7 @@ Im a student in the Dmit program
 
 ### Github Stats
 <a href="https://github.com/krussell23/krussell23">
-  <img align="center" src="https://github-stats.vercel.app/api/top-langs/?username=krussell23&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/> </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krussell23&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/> </a>
 
 
 <!-- 
